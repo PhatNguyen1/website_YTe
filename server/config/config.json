@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "truong",
+    "password": "admin",
+    "database": "medical_1.0",
+    "host": "localhost",
+    "dialect": "mssql"
+  },
+  "test": {
+    "username": "truong",
+    "password": "admin",
+    "database": "test",
+    "host": "localhost",
+    "dialect": "mssql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
